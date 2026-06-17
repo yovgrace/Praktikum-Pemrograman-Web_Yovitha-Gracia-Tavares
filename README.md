@@ -1,17 +1,36 @@
-# 📝 Tugas Formulir Pendaftaran Mahasiswa Baru
-
-Repositori ini berisi kode HTML dan CSS murni untuk Formulir Pendaftaran Mahasiswa Baru Universitas STITEK Bontang. Desain dibuat responsif dengan tema warna ungu (*purple aesthetic*).
-
-## 🚀 Hasil Tampilan (Tangkapan Layar)
-
-Berikut adalah hasil *run* dari formulir pendaftaran:
-
-![Hasil Run Formulir Pendaftaran](hasil-run.png)
-
----
-
-## 🛠️ Fitur Formulir
-* **Data Pribadi:** Input Nama Lengkap, Email, dan Radio Button Jenis Kelamin.
-* **Hobi:** Checkbox pilihan hobi (multiselect).
-* **Data Akademik:** Dropdown (*Select*) pilihan jurusan dan Textarea untuk alamat.
-* **Desain Responsif:** Tampilan otomatis menyesuaikan saat dibuka di komputer maupun *smartphone*.
+[ Logo STITEK Bontang (Bulat) ]
+         Formulir Pendaftaran Mahasiswa Baru
+       Lengkapi semua data dengan benar dan jujur
++-------------------------------------------------------+
+|                                                       |
+|  📋 Data Pribadi                                      |
+|  ---------------------------------------------------  |
+|  Nama Lengkap * |
+|  [                                                 ]  |
+|                                                       |
+|  Alamat Email * |
+|  [                                                 ]  |
+|  Gunakan email aktif yang sering Anda cek.            |
+|                                                       |
+|  Jenis Kelamin * |
+|  ( ) Pria   ( ) Wanita                                |
+|                                                       |
+|  🎯 Hobi                                              |
+|  ---------------------------------------------------  |
+|  Pilih Hobi Anda * |
+|  [ ] Membaca  [ ] Olahraga  [ ] Musik  [ ] Menulis    |
+|  [ ] Memasak                                          |
+|                                                       |
+|  🎓 Data Akademik                                     |
+|  ---------------------------------------------------  |
+|  Pilih Jurusan * |
+|  [ -- Pilih Jurusan --                             v ]  |
+|                                                       |
+|  Alamat Lengkap (opsional)                            |
+|  +-------------------------------------------------+  |
+|  |                                                 |  |
+|  +-------------------------------------------------+  |
+|                                                       |
+|  [=============== KIRIM PENDAFTARAN ================] |
++-------------------------------------------------------+
+            Informasi lebih lanjut kunjungi Halaman Informasi Kampus
